@@ -1,0 +1,16 @@
+{
+    "name": "enzogamads/app-catalog-video",
+    "description": "App With PHP - Catalog Video",
+    "authors": [
+        {
+            "name": "Enzo Gama dos Santos",
+            "email": "enzo.gamads@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Core\\": "src/Core/"
+        }
+    },
+    "require": {}
+}
